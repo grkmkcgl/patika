@@ -1,1 +1,1 @@
-Patika için yazdığım sort ödevleri
+Patika için yazdığım ödevler
